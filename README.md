@@ -26,3 +26,35 @@ To get started, clone the repository and install the necessary dependencies.
 git clone https://github.com/MathewCoder10/DeepLearning_Project.git
 cd DeepLearning_Project
 pip install -r requirements.txt
+
+Usage
+Run the Jupyter notebooks to train and evaluate the models.
+
+bash
+Copy code
+jupyter notebook
+Models
+ResNet
+
+Description: The ResNet model implementation with various preprocessing techniques.
+Notebook: ResNet Model
+VGG
+
+Description: The VGG model implementation with various preprocessing techniques.
+Notebook: VGG Model
+Performance Analysis
+A comprehensive analysis of the performance of different models with various preprocessing techniques.
+
+
+Conference Paper
+You can find the paper presented at the international conference in the docs/papers folder.
+
+Contributing
+Contributions are welcome! Please read the contributing guidelines first.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Libraries and Tools: TensorFlow, Keras, NumPy, Matplotlib
+Inspiration: Thanks to all the open-source contributors who made this project possible.
