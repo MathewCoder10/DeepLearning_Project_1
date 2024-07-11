@@ -38,12 +38,12 @@ jupyter notebook
 ## Models
 
 ### ResNet
-![ResNet](https://path-to-your-image.com/resnet.png)
+![ResNet]
 - **Description:** The ResNet model implementation with various preprocessing techniques.
 - **Notebook:** [ResNet Model](notebooks/ResNet_Model.ipynb)
 
 ### VGG
-![VGG](https://path-to-your-image.com/vgg.png)
+![VGG]
 - **Description:** The VGG model implementation with various preprocessing techniques.
 - **Notebook:** [VGG Model](notebooks/VGG_Model.ipynb)
 
