@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-For any issues or questions, please open an issue or contact [yourname@domain.com](mailto:yourname@domain.com).
+
 
 ![GitHub followers](https://img.shields.io/github/followers/MathewCoder10?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MathewCoder10/DeepLearning_Project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MathewCoder10/DeepLearning_Project_1?style=social)
