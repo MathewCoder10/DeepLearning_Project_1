@@ -50,7 +50,7 @@ jupyter notebook
 ## Performance Analysis
 A comprehensive analysis of the performance of different models with various preprocessing techniques.
 
-![Performance Graph]([https://path-to-your-image.com/performance.png](https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/performance.png))
+![Performance Graph](https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/performance.png)
 
 ## Conference Paper
 You can find the paper presented at the international conference in the https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/paper/FinalConference_paper_pc.pdf 
