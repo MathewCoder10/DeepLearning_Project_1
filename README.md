@@ -39,7 +39,7 @@ jupyter notebook
 
 ### ResNet
 - **Description:** The ResNet model implementation with various preprocessing techniques.
-- **Notebook:** [ResNet Model](notebooks/ResNet_Model.ipynb)
+- **Notebook:** [ResNet Model](https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/training_ResNet50.ipynb)
 
 ### VGG
 - **Description:** The VGG model implementation with various preprocessing techniques.
