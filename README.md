@@ -53,7 +53,7 @@ A comprehensive analysis of the performance of different models with various pre
 ![Performance Graph](https://path-to-your-image.com/performance.png)
 
 ## Conference Paper
-You can find the paper presented at the international conference in the [docs/papers](docs/papers) folder.
+You can find the paper presented at the international conference in the https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/paper/FinalConference_paper_pc.pdf folder.
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines first.
