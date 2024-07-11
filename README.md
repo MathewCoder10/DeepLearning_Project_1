@@ -56,9 +56,6 @@ You can find the paper presented at the international conference in the https://
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines first.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - **Libraries and Tools:** TensorFlow, Keras, NumPy, Matplotlib
 - **Inspiration:** Thanks to all the open-source contributors who made this project possible.
