@@ -43,7 +43,7 @@ jupyter notebook
 
 ### VGG
 - **Description:** The VGG model implementation with various preprocessing techniques.
-- **Notebook:** [VGG Model](notebooks/VGG_Model.ipynb)
+- **Notebook:** [VGG Model](https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/trainingvgg19.ipynb)
 
 ## Performance Analysis
 A comprehensive analysis of the performance of different models with various preprocessing techniques.
