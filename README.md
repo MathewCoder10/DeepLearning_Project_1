@@ -53,12 +53,12 @@ A comprehensive analysis of the performance of different models with various pre
 ## Conference Paper
 You can find the paper presented at the international conference in the https://github.com/MathewCoder10/DeepLearning_Project_1/blob/master/paper/FinalConference_paper_pc.pdf 
 
-## Contributing
-Contributions are welcome! Please read the contributing guidelines first.
-
 ## Acknowledgments
 - **Libraries and Tools:** TensorFlow, Keras, NumPy, Matplotlib
-- **Inspiration:** Thanks to all the open-source contributors who made this project possible.
+
+## Demo
+Explore the live demo of the project at [LeafShield Demo](https://leafshield.streamlit.app/)
+
 
 ---
 
